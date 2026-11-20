@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    viewBox="0 0 720 720"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(0 -332.36)"
+    >
+    <path
+        id="path3226"
+        style="fill:#000000"
+        d="m229.08 501.43c-19.131 0-34.636-15.505-34.636-34.636 0-6.3004 1.6826-12.209 4.622-17.299-5.9941 10.336-17.187 17.299-29.995 17.299s-23.982-6.9631-29.976-17.299c2.9395 5.0901 4.622 10.999 4.622 17.299 0 19.131-15.505 34.636-34.636 34.636 19.131 0 34.636 15.505 34.636 34.636 0 6.3097-1.6937 12.223-4.6412 17.318 5.99-10.352 17.175-17.318 29.995-17.318 12.811 0 24.002 6.9598 29.995 17.299-2.9395-5.0901-4.622-10.999-4.622-17.299 0-19.131 15.505-34.636 34.636-34.636z"
+    />
+    <path
+        id="path3316"
+        style="fill:#000000"
+        d="m359.29 370.48 60.711 103.76-120-0.84602 59.289-102.91z"
+    />
+    <path
+        id="path3363"
+        style="fill:#000000"
+        d="m490.92 441.44h120v120l-120 2e-13v-120z"
+    />
+    <path
+        id="path3367"
+        style="fill:#000000"
+        d="m229.08 823.28c-33.137 33.137-86.863 33.137-120 0 33.137 33.137 33.137 86.863 0 120 33.137-33.137 86.863-33.137 120 0-33.137-33.137-33.137-86.863-9.9e-13 -120z"
+    />
+    <path
+        id="path3734"
+        style="fill:#000000"
+        d="m630 635.31 60 43.568-22.91 70.538h-74.152l-22.938-70.538 60-43.568z"
+    />
+    <path
+        id="path3533"
+        style="fill:#000000"
+        d="m90 635.31c-4.1542 12.78-12.272 23.757-22.91 31.501-0.010409 0.007578-0.017389 0.020232-0.027804 0.027804-10.404 7.56-23.215 12.04-37.062 12.04 15.761 11.468 26.024 30.064 26.024 51.047 0 6.8089-1.0902 13.347-3.0862 19.49 10.409-7.5763 23.203-12.067 37.062-12.067s26.681 4.4904 37.09 12.067c-1.9964-6.144-3.0862-12.681-3.0862-19.49 0-20.983 10.236-39.58 25.996-51.047-13.855 0-26.683-4.4668-37.09-12.039v-0.027804c-10.64-7.74-18.756-18.72-22.91-31.5z"
+    />
+    <path
+        id="path3781"
+        style="fill:#000000"
+        d="m399.24 531.4a68.834 68.834 0 1 1 -137.67 0 68.834 68.834 0 1 1 137.67 0z"
+        transform="matrix(.87167 0 0 .87167 72 229.16)"
+    />
+    <path
+        id="path3785"
+        style="fill:#000000"
+        d="m359.29 910.48c-0.22608 20.171-5.507 40.576-16.311 59.289-10.76 18.64-25.71 33.33-42.98 43.63 36.117-20.133 81.587-21.332 120 0.84602-38.492-22.223-60.173-62.321-60.711-103.76z"
+    />
+    <path
+        id="path3800"
+        style="fill:#000000"
+        d="m580.92 831.32 30 51.962-30 51.962h-60l-30-51.962 30-51.962h60z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >9 supreme shapes</dc:title
+        >
+        <dc:date
+          >2011-04-29T20:34:23</dc:date
+        >
+        <dc:description
+          >this is one of the coolest things yet. It almost competes with the chessboard in it's awesomeness. Each of the shapes I could go on forever about but it would be more important to describe how I did it.&#13;\n&#13;\nStarting with the top going clockwise, I made the 4 supreme regular polygons. They are the most well known polygons.&#13;\n&#13;\nThe next four shapes I'm unsure if they have a name, but they are created by the gaps between different numbers of circles. They may not be as well known as the regular polygons. Since they are curved instead of straight edged, they could be called polycurves.&#13;\n&#13;\nLast but certainly not least, the circle is in the center. It's not a polygon or a polycurve, but it's the most commonly occuring shape in the universe as far as I know. Also I had to include it since the polycurves were made from circle gaps.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/134743/9-supreme-shapes-by-10binary</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >10binary</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >curve</rdf:li
+            >
+            <rdf:li
+              >hexagon circle</rdf:li
+            >
+            <rdf:li
+              >pentagon</rdf:li
+            >
+            <rdf:li
+              >polycurve</rdf:li
+            >
+            <rdf:li
+              >polygon</rdf:li
+            >
+            <rdf:li
+              >shape</rdf:li
+            >
+            <rdf:li
+              >square</rdf:li
+            >
+            <rdf:li
+              >supreme</rdf:li
+            >
+            <rdf:li
+              >triangle</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

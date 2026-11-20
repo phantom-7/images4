@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3220"
+    sodipodi:docname="sailboat.svg"
+    viewBox="0 0 637.47 636.34"
+    version="1.1"
+    inkscape:version="0.48.0 r9654"
+  >
+  <defs
+      id="defs3222"
+    >
+    <pattern
+        id="pattern5535"
+        xlink:href="#Strips1_1white"
+        patternTransform="matrix(2.9026 0 0 2.9026 461.05 504.85)"
+        inkscape:collect="always"
+    />
+    <pattern
+        id="Strips1_1white"
+        height="1"
+        width="2"
+        patternUnits="userSpaceOnUse"
+        patternTransform="translate(0) scale(10)"
+        inkscape:stockid="Stripes 1:1 white"
+        inkscape:collect="always"
+      >
+      <rect
+          id="rect4780"
+          style="fill:white"
+          height="2"
+          width="1"
+          y="-.5"
+          x="0"
+      />
+    </pattern
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      fit-margin-left="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="738"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.49497475"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="12.609054"
+      inkscape:cy="508.01688"
+      fit-margin-top="0"
+      fit-margin-right="0"
+      fit-margin-bottom="0"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-47.223 -281.91)"
+    >
+    <g
+        id="g5498"
+        transform="matrix(.29026 0 0 .30002 464.02 491.3)"
+      >
+      <path
+          id="path4016"
+          d="m-312.69-525.25c-265.41-0.29873-529.9 111.33-711.43 305.29-147.36 155.44-240.07 363.14-251.15 577.67-11.925 204.85 47.534 413.18 167.34 579.79 128.25 181.43 321.56 314.95 536.17 372.56 215.45 58.876 450.82 43.447 656.02-44.972 169.87-72.6 318.74-194.4 421.22-348.27 85.8-127.81 139.27-277.49 151.49-431.15 15.7-186.74-27.54-378.23-123.75-539.01-107.79-182.56-278.63-326.1-475.99-403.1-117.41-46.2-243.66-69.85-369.92-68.92z"
+          style="stroke:#a0ffff;stroke-width:3.395;fill:#0819fe"
+          inkscape:connector-curvature="0"
+      />
+      <path
+          id="path4009"
+          d="m-316.41-485.22c-231.45 0.94858-462 89.484-632.11 246.36-145 132.62-246.77 313.89-277.56 508.91-29.516 180.68-0.7454 370.86 83.148 533.51 84.106 165.07 219.86 301.84 383.19 388.86 150.4 80.846 323.17 119.79 494.02 111.73 188.03-8.1734 373.66-72.097 524.32-185 134.61-100.1 242.16-237.36 303.04-394.32 70.06-178.97 78.42-382.13 22.04-566.12-48.32-160.06-143.92-304.91-270.13-413.92-130.1-113.03-292.22-189.17-462.62-216.95-55.226-9.2406-111.3-13.571-167.34-13.11z"
+          style="stroke:#a0ffff;stroke-width:3.395;fill:#0819fe"
+          inkscape:connector-curvature="0"
+      />
+    </g
+    >
+    <path
+        id="path3238"
+        style="fill:#ffff03"
+        inkscape:connector-curvature="0"
+        d="m362.53 553.46c0 31.091-26.255 56.295-58.641 56.295-32.387 0-58.641-25.204-58.641-56.295s26.255-56.295 58.641-56.295c32.387 0 58.641 25.204 58.641 56.295z"
+    />
+    <path
+        id="path3230"
+        sodipodi:nodetypes="cccc"
+        style="stroke:#2c7a7a;stroke-width:.29026px;fill:#f1fffc"
+        inkscape:connector-curvature="0"
+        d="m379.78 482.73 0.82931 234.69 111.13 1.6586c-22.54-78.78-52.24-157.56-111.96-236.35z"
+    />
+    <path
+        id="path3232"
+        sodipodi:nodetypes="ccccc"
+        style="stroke:#a0ffff;stroke-width:.29026px;fill:#fa1600"
+        inkscape:connector-curvature="0"
+        d="m227.33 725.78c99.905 15.541 197.62 13.528 294.41 4.1466-10.06 19.639-14.811 34.835-45.612 63.028-76.02-15.277-152.04-1.1888-228.06-1.6586 2.2829-24.137-11.351-44.295-20.733-65.516z"
+    />
+    <path
+        id="path3234"
+        sodipodi:nodetypes="cccc"
+        style="stroke:#fbfbfb;stroke-width:1.3932;fill:url(#pattern5535)"
+        inkscape:connector-curvature="0"
+        d="m375.43 436.18c-1.716 11.337-1.5533 22.675 0 34.012l-46.91-2.34c18.971-6.1109 37.169-13.253 46.913-31.666z"
+    />
+    <path
+        id="path3236"
+        sodipodi:nodetypes="cccc"
+        d="m367.57 513.08-0.82931 202.23-111.13 1.4292c60.496-65.78 84.72-134.86 111.96-203.66z"
+        style="stroke:#2c7a7a;stroke-width:.26944px;fill:#f1fffc"
+        inkscape:connector-curvature="0"
+    />
+    <path
+        id="path5492"
+        style="fill:#fa1600"
+        transform="matrix(.29026 0 0 .39669 456.36 474.68)"
+        d="m-40.406 454.35c0 33.474-35.276 60.609-78.792 60.609s-78.792-27.136-78.792-60.609c0-33.474 35.276-60.609 78.792-60.609s78.792 27.136 78.792 60.609z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Sailboat and Sun</dc:title
+        >
+        <dc:date
+          >2011-05-12T04:27:25</dc:date
+        >
+        <dc:description
+          >Simple sailboat with setting sun.</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/138265/sailboat-and-sun-by-laurianne</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >laurianne</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >PNG</rdf:li
+            >
+            <rdf:li
+              >SVG</rdf:li
+            >
+            <rdf:li
+              >Sailboat</rdf:li
+            >
+            <rdf:li
+              >blue</rdf:li
+            >
+            <rdf:li
+              >boat</rdf:li
+            >
+            <rdf:li
+              >red</rdf:li
+            >
+            <rdf:li
+              >sun</rdf:li
+            >
+            <rdf:li
+              >yellow</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

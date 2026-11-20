@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="60mm"
+   height="60mm"
+   viewBox="0 0 212.59843 212.59842"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Engel-Silhouette.svg">
+  <title
+     id="title4136">Angel - Silhouette</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4546204"
+     inkscape:cx="106.29921"
+     inkscape:cy="106.29921"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Angel - Silhouette</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>2016-12-18</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Frank Tremmel</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>angel</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+            <rdf:li>christmas</rdf:li>
+            <rdf:li>engel</rdf:li>
+            <rdf:li>silhouette</rdf:li>
+            <rdf:li>weihnachten</rdf:li>
+            <rdf:li></rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>a simple angle silhouette</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-839.76378)">
+    <g
+       id="g4172"
+       transform="matrix(0.89161176,0,0,0.8918511,15.717511,104.52931)"
+       style="fill:#000000">
+      <circle
+         r="31.825953"
+         cy="872.10559"
+         cx="103.86807"
+         id="path4138"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.17920876;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccscsscccsscsccsc"
+         inkscape:connector-curvature="0"
+         id="path4140"
+         d="m 25.763876,1022.577 33.448128,-61.77999 c 0,0 -35.124972,-8.23113 -44.71714,-42.969 -9.2252936,-33.40924 21.171085,-69.78491 42.86622,-72.19548 0,0 -16.020821,18.63568 -12.152773,33.54165 3.171582,12.22206 8.043469,18.44289 17.328125,24.64927 8.977886,6.00133 22.338193,4.9218 26.544725,7.35229 5.423732,3.13378 12.512059,10.29008 12.512059,10.29008 0,0 7.08832,-7.15632 12.51205,-10.2901 4.20653,-2.43049 17.56684,-1.35096 26.54473,-7.35229 9.28465,-6.20638 14.15654,-12.42721 17.32812,-24.64927 3.86805,-14.90597 -12.15277,-33.54165 -12.15277,-33.54165 21.69514,2.41057 52.09152,38.78624 42.86622,72.19548 -9.59217,34.73784 -44.71714,42.96904 -44.71714,42.96904 l 33.44813,61.77997 c -18.08103,17.9528 -49.57006,24.3054 -75.82935,24.3054 -26.259281,0 -57.748305,-6.3526 -75.829334,-24.3054 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:3.17881107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

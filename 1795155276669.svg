@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns1="http://sozi.baierouge.fr" id="svg2" viewBox="0 0 720 720" version="1.1" inkscape:version="0.91 r13725">
+  <g id="layer1" transform="translate(0 -332.36)">
+    <path id="path2916" style="stroke:#000000;stroke-width:1px;fill:none" d="m229.73 377.86-0.000021454 184.23-184.23 0.00005322 130.27 130.27-130.27 130.27h184.23v184.23l130.27-130.27 130.27 130.27 6e-13 -184.23h184.23l-130.27-130.27 130.27-130.27h-184.23v-184.23l-130.27 130.27-130.27-130.27z"/>
+    <path id="path2920" style="fill:#000000" d="m229.73 377.86-0.000021454 184.23 130.27 130.27-130.27-314.5z"/>
+    <path id="path2839" style="fill:#000000" d="m490.27 377.86-130.27 130.27 0.000012232 184.23 130.27-314.5z"/>
+    <path id="path2841" style="fill:#000000" d="m674.5 562.09-184.23-0.000021454-130.27 130.27 314.5-130.27z"/>
+    <path id="path2843" style="fill:#000000" d="m674.5 822.63-130.27-130.27-184.23 0.000012232 314.5 130.27z"/>
+    <path id="path2845" style="fill:#000000" d="m490.27 1006.9 0.000021454-184.23-130.27-130.27 130.27 314.5z"/>
+    <path id="path2847" style="fill:#000000" d="m229.73 1006.9 130.27-130.31v-184.23l-130.27 314.54z"/>
+    <path id="path2849" style="fill:#000000" d="m45.5 822.63 184.23 0.000021454 130.27-130.27-314.5 130.27z"/>
+    <path id="path2851" style="fill:#000000" d="m45.5 562.09 130.27 130.27h184.23l-314.5-130.27z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>octagon outrayj 16 stripes</dc:title>
+        <dc:date>2011-05-30T17:27:29</dc:date>
+        <dc:description>octagon outrayj 16 stripes</dc:description>
+        <dc:source>https://openclipart.org/detail/141433/octagon-outrayj-16-stripes-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>j 16</rdf:li>
+            <rdf:li>octagon</rdf:li>
+            <rdf:li>outray</rdf:li>
+            <rdf:li>polygon</rdf:li>
+            <rdf:li>star</rdf:li>
+            <rdf:li>stripes</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
