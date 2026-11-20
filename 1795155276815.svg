@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg3761"
+    viewBox="0 0 626.14 856"
+    version="1.1"
+  >
+  <g
+      id="layer6"
+      stroke="#000"
+      transform="translate(41.397 103.64)"
+    >
+    <path
+        id="path4707"
+        d="m441.42 752.36-141.42-141.42v141.42z"
+    />
+    <path
+        id="path4709"
+        d="m6.9724 733.53 84.524-181.26-132.89 48.37z"
+    />
+    <path
+        id="path4733"
+        d="m350-103.64 24.56 139.28-139.28 24.553-24.55-139.27z"
+    />
+    <path
+        id="path3934"
+        d="m436.87 205.53-346.41 200 273.2 73.2z"
+    />
+    <path
+        id="path4704"
+        d="m584.75 120.02-346.41 200 73.2-273.21z"
+    />
+    <path
+        id="path4731"
+        d="m387.1 632.46-273.21-73.205 173.21-100z"
+    />
+    <path
+        id="path4738"
+        d="m117.45 559.17-136.6-36.603 173.21-100 136.6 36.603z"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Tangram</dc:title
+        >
+        <dc:date
+          >2013-10-15T08:58:20</dc:date
+        >
+        <dc:description
+          >Tangram puzzle exercise</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/184953/tangram-by-dominiquechappard-184953</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >dominiquechappard</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >black</rdf:li
+            >
+            <rdf:li
+              >people</rdf:li
+            >
+            <rdf:li
+              >puzzle</rdf:li
+            >
+            <rdf:li
+              >shape</rdf:li
+            >
+            <rdf:li
+              >tangram</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
