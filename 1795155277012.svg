@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 720 720" version="1.0">
+  <g id="layer1">
+    <path id="path2413" d="m360 0v720c198.72 0 360-161.28 360-360s-161.28-360-360-360z"/>
+    <path id="path2466" fill="#fff" d="m360 720v-720c-198.72 0-360 161.28-360 360s161.28 360 360 360z"/>
+    <path id="path2468" fill="#fff" transform="matrix(4,0,0,4,540,-720)" d="m0 225a45 45 0 1 1 -90 0 45 45 0 1 1 90 0z"/>
+    <path id="path2470" transform="matrix(4,0,0,4,540,-360)" d="m0 225a45 45 0 1 1 -90 0 45 45 0 1 1 90 0z"/>
+    <path id="path2472" transform="translate(405,-45)" d="m0 225a45 45 0 1 1 -90 0 45 45 0 1 1 90 0z"/>
+    <path id="path2474" fill="#fff" transform="translate(405,315)" d="m0 225a45 45 0 1 1 -90 0 45 45 0 1 1 90 0z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>yinyang</dc:title>
+        <dc:date>2011-01-01T05:22:21</dc:date>
+        <dc:description>The yinyang is a common thing all over the place. I drew this from scratch using inkscape and looking at other pictures to see what it's supposed to look like.</dc:description>
+        <dc:source>http://openclipart.org/detail/102877/yinyang-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>black</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>religion</rdf:li>
+            <rdf:li>white</rdf:li>
+            <rdf:li>yang</rdf:li>
+            <rdf:li>yin</rdf:li>
+            <rdf:li>yinyang</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

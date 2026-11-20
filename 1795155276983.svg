@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality"
+    fill-rule="evenodd"
+    xml:space="preserve"
+    version="1.1"
+    clip-rule="evenodd"
+    viewBox="0 0 3960 3558"
+  >
+ <defs
+    >
+  <style
+        type="text/css"
+      >
+    .fil2 {fill:#BF2642}
+    .fil5 {fill:#C72A47}
+    .fil1 {fill:#C9304C}
+    .fil0 {fill:#E6E6E6}
+    .fil3 {fill:#B01935;fill-rule:nonzero}
+    .fil4 {fill:#ECEEF0;fill-rule:nonzero}
+  </style
+    >
+ </defs
+  >
+ <g
+      id="Layer_x0020_1"
+    >
+  <rect
+        width="3960"
+        class="fil0"
+        height="3558"
+    />
+  <rect
+        y="205"
+        x="180"
+        width="3601"
+        class="fil1"
+        height="3149"
+    />
+  <polygon
+        points="949 2418 1458 2077 1980 1779 2015 565 3780 1585 3780 3354 2569 3354"
+        class="fil2"
+    />
+  <path
+        class="fil3"
+        d="m2813 2643c0 41-34 75-76 75s-76-34-76-75v-384l-426-246v492l332 192c36 20 49 67 28 103-21 37-67 49-104 28l-256-148v348c0 42-34 76-76 76s-76-34-76-76v-348l-257 148c-36 21-82 9-103-28-21-36-9-83 28-103l332-192v-492l-426 246v384c0 41-34 75-76 75s-76-34-76-75v-296l-301 173c-36 21-83 9-104-27-21-37-8-83 28-104l301-174-256-148c-37-21-49-67-28-104 21-36 67-48 103-28l333 192 426-246-426-246-333 192c-36 21-82 9-103-28-21-36-9-82 28-103l256-148-301-174c-36-21-49-68-28-104s68-49 104-28l301 174v-296c0-42 34-76 76-76s76 34 76 76v384l426 246v-492l-332-192c-37-21-49-67-28-104 21-36 67-48 103-27l257 147v-347c0-42 34-76 76-76s76 34 76 76v347l256-147c37-21 83-9 104 27 21 37 8 83-28 104l-332 192v492l426-246v-384c0-42 34-76 76-76s76 34 76 76v296l300-174c37-21 83-8 104 28 21 37 9 83-28 104l-300 174 256 148c36 21 49 67 28 104-21 36-68 48-104 27l-332-191-426 245 426 246 332-192c36-20 83-8 104 28 21 37 8 83-28 104l-256 148 300 174c37 21 49 67 28 104-21 36-67 48-104 27l-300-173v296z"
+    />
+  <path
+        class="fil4"
+        d="m2634 2540c0 42-34 76-76 76s-76-34-76-76v-383l-426-246v492l332 191c36 21 49 68 28 104s-67 49-104 28l-256-148v347c0 42-34 77-76 77s-76-35-76-77v-347l-256 148c-37 21-83 8-104-28s-8-83 28-104l332-191v-492l-426 246v383c0 42-34 76-76 76s-76-34-76-76v-296l-301 174c-36 21-82 9-103-28-21-36-9-82 27-103l301-174-256-148c-36-21-49-67-28-104 21-36 67-49 104-28l332 192 426-246-426-246-332 192c-37 21-83 8-104-28s-8-83 28-103l256-148-301-174c-36-21-48-68-27-104s67-49 103-28l301 174v-296c0-42 34-76 76-76s76 34 76 76v384l426 245v-491l-332-192c-36-21-49-67-28-104 21-36 67-49 104-28l256 148v-347c0-42 34-76 76-76s76 34 76 76v347l256-148c37-21 83-8 104 28 21 37 8 83-28 104l-332 192v491l426-245v-384c0-42 34-76 76-76s76 34 76 76v296l300-174c37-21 83-8 104 28s9 83-27 104l-301 174 256 148c37 21 49 67 28 103-21 37-68 49-104 28l-332-192-426 246 426 246 332-192c37-21 83-8 104 28 21 37 8 83-28 104l-256 148 301 173c36 22 48 68 27 104-21 37-67 49-104 28l-300-174v296z"
+    />
+  <path
+        class="fil3"
+        d="m180 197h3609v3165h-3618v-3165h9zm3592 16h-3584v3132h3584v-3132z"
+    />
+  <path
+        class="fil5"
+        d="m249 3327c-1 3-5 3-7 3s-2 0-2-1c-1 0-1 0-1-2 0-1 1-3 1-4 1 0 1-1 1-1l2-2c1-1 1-2 3 0 0 1 4 5 3 7zm21-9c1 0 3 3 3 4-1 0-4-3-3-4zm134 5l1-1v2s0-1-1-1zm-1-6c-1-1 0-3 1-4 0 2 0 3-1 4zm-29-6c1 0 0 2 0 3-1 1-4 8-6 6-2-3 4-9 6-9zm47 1h2c1 0 1 0 2 1l-1 4c-1 0-3-4-3-5zm-173 4c3-3 13-6 17-6h5c4 0 11 1 13 6v4c-1 1-1 3-2 4-4 2-3-7-9-10-2-1-5-3-6-1-2 2-2 6-1 8 2 3 5 5 8 6 2 1 3 1 3 2 1 1 2 2 2 3 1 1 1 2 3 1 1 0 2-1 3-2 0-2 0-2 2-2s3-1 4-1c3 0 3 0 4-1 4-1 3-2 5-4 2 2 1 8 5 7 2-1 2-3 2-5-1-2 0-8 1-10 1-1 2-3 3-4 1-2 6-3 8-1 0 2-1 3-2 5 0 1-2 4-2 5-1 3-1 7 3 9s6 2 10 1c3-1 5-2 7-4 0 0 0-1 1-2 1 2 2 11 5 9 1 0 2-1 2-2 1-2 0-2 0-4-1-1-1-6-1-7v-4c0-1 0-5 1-6 1-4 7-3 9 1 0 2 0 2-1 3 0 1-1 1-1 2-1 1 0 0-2 3-2 2-3 4-3 7 0 1 1 2 1 3 4 5 15 2 20 0 1-1 4-3 5-3 0 2-1 4 1 6l2 4c3 3 8 2 11 2 3-1 6-2 8-3 1 0 1-1 2-1l7-7c1 0 2 2 3 2 1 1 2 2 3 2s2 0 3-1c2-2-1-9-1-11s-1-3 0-4c0-1 0-4 1-4h4c2 0 2 1 3 3 0 2 2 5 3 7 2 2 4 4 5 6 0 1 1 3 2 4s2 1 3 0c1 0 2-2 1-3 0-3-3-3-2-8 0-1-1-1 0-2v-3c1-2 3-6 0-8-2-1-4 0-5 0-2 0-4 0-5-1s0-3 0-4c0-2 1-2 3-3 0-1 6-3 7-3 9-2 11-2 19-3 5 0 17 0 21 1 3 0 2 1 4 1 1 1 3 0 4 0 2 1 3 1 5-1 0-1 1-3 0-4-2-2-3-1-4-1l-24-1c-1 1-2 1-3 1-2-1-7 0-10 0-5 1-13 1-18 4h-2c-1 1-3 2-4 4-4 4-2 8-3 9-1 0-4 0-4-1-1 0-3-1-4-1 0 0-1 2-2 3-1 0-2 1-3 2-2 1-3 4-3 7v4c1 2 1 2 0 4-3 3-6 6-11 8-2 1-6 1-8 1-2-1-2 0-3-2-1-1-2-2-1-3 0-1 4-2 5-2h3c1-1 2-2 2-3 0-2-2-3-4-3-1 0-5 1-6 1 0-1 2-5 2-6 1-1 3-7 3-9-1-2-2-3-5-2 0 0-2 1-2 2-4 2-5 3-8 7-2 2-2 3-3 6 0 2 2 4 2 5 0 0-2 1-3 1-1 1-2 1-4 1-1 0-7 1-8 0-1-5 11-10 4-19-2-3-5-5-9-5-1 1-4 1-5 2s-1 4-2 5c-1 0-1-3-4-2-3 2 2 9-2 15-1 2-6 4-8 4-4-1-7-3-4-7 2-2 4-6 4-9 0-1-1-3-2-4s-3-2-4-2c-5-2-9 2-12 6 0 0-2 3-2 4-1-1-2-6-4-5-3 1-2 5-2 7-1 3-1 5-3 6-1 1-7 2-8 2 0-2 2-7 0-10-1-3-3-5-5-6-7-4-22-3-29 0-1 1-3 2-4 2-3 2-3 4-7 0-1-1-11-6-11-7l4-3c2-1 3-2 5-3 3-3 5-5 7-8 5-7 9-16 2-23-6-5-18-5-26-4-28 6-31 38-23 62 1 3 3 9 5 11 2 1 4 1 4-1-1-1-2-2-3-5-6-15-10-36-1-50 4-7 11-11 19-12 6-1 20-2 24 4 3 7-4 17-9 21l-9 6c-2 1-4 2-5 3-2 2-1 4 1 5 0 1 6 3 7 4 2 1 6 4 8 5 1 1 1 1 0 2-3 2-3 4-5 7-1 2-1 5 0 7 0 1 3 3 4 4h7c4-1 7-4 7-9s-5-9-5-10z"
+    />
+ </g
+  >
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Single Modern Snowflake</dc:title
+        ><dc:date
+          >2013-11-07T16:31:08</dc:date
+        ><dc:description
+          >A Single Modern Snowflake.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/188432/single-modern-snowflake-by-barrettward-188432</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >barrettward</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >Christmas</rdf:li
+            ><rdf:li
+              >coloringcontest2013</rdf:li
+            ><rdf:li
+              >flake</rdf:li
+            ><rdf:li
+              >holiday</rdf:li
+            ><rdf:li
+              >icon</rdf:li
+            ><rdf:li
+              >modern</rdf:li
+            ><rdf:li
+              >snow</rdf:li
+            ><rdf:li
+              >snowflake</rdf:li
+            ><rdf:li
+              >winter</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

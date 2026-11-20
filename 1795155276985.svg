@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- 左侧上横线 -->
+    <rect x="20" y="0" width="60" height="10" fill="#0969DA" />
+    <!-- 左侧竖条 -->
+    <rect x="30" y="10" width="40" height="180" fill="#0969DA" />
+    <!-- 左侧下横线 -->
+    <rect x="20" y="190" width="60" height="10" fill="#0969DA" />
+     <!-- 中间横条 -->
+    <rect x="70" y="70" width="110" height="40" fill="#0969DA" />
+    <!-- 右侧上横线 -->
+    <rect x="120" y="0" width="60" height="60" fill="#F97316" />
+     <!-- 右侧竖条下部分 -->
+    <rect x="120" y="110" width="60" height="90" fill="#0969DA" />
+</svg>
